@@ -8,9 +8,9 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-    <description>基础开发框架</description>
+    <description>y1bdf是基础开发框架</description>
 
-    <artifactId>bdf</artifactId>
+    <artifactId>y1bdf</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
