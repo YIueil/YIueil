@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="yap" />
+        <module name="bdf" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="app" target="8" />
+      <module name="bdf" target="8" />
       <module name="yap" target="8" />
       <module name="YIueil" target="1.5" />
     </bytecodeTargetLevel>
