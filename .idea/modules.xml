@@ -4,8 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/YIueil.iml" filepath="$PROJECT_DIR$/.idea/YIueil.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/bdf/bdf.iml" filepath="$PROJECT_DIR$/app/bdf/bdf.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/yap/yap.iml" filepath="$PROJECT_DIR$/app/yap/yap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/bdf/y1bdf.iml" filepath="$PROJECT_DIR$/app/bdf/y1bdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/y1blog/y1blog.iml" filepath="$PROJECT_DIR$/app/y1blog/y1blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/yap/y1dap.iml" filepath="$PROJECT_DIR$/app/yap/y1dap.iml" />
     </modules>
   </component>
 </project>

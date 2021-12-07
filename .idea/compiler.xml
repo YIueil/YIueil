@@ -6,14 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="yap" />
-        <module name="bdf" />
+        <module name="y1bdf" />
+        <module name="y1blog" />
+        <module name="y1dap" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="app" target="8" />
-      <module name="bdf" target="8" />
-      <module name="yap" target="8" />
+      <module name="y1bdf" target="8" />
+      <module name="y1blog" target="8" />
+      <module name="y1dap" target="8" />
       <module name="YIueil" target="1.5" />
     </bytecodeTargetLevel>
   </component>
